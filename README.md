@@ -1,4 +1,4 @@
-# Swedish Pastry Bakery API
+# Swedish Pastry API
 
 ## Schema
 
